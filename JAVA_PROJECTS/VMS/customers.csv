@@ -1,0 +1,8 @@
+name,identityNumber,address,email,phoneNumber,creditCardNumber,loyaltyCardID,loyaltyPoints
+Paris Georgiou,100001,Arch. Makariou III 50 Nicosia,paris.g@example.com,99123456,4532015112830366,L001,355
+Maria Constantinou,100002,Griva Digeni 10 Limassol,maria.c@example.com,99234567,4539578763621486,L002,4415
+Andreas Papadopoulos,100003,Ledra 25 Nicosia,andreas.p@example.com,99345678,4485275742308327,L003,1410
+Eleni Nicolaou,100004,Stasinou 7 Larnaca,eleni.n@example.com,99456789,4716902247781023,L004,440
+Christos Hadjipavlou,100005,Makedonitissas 14 Nicosia,christos.h@example.com,99567890,4024007190432673,L005,0
+Nikolas Panayiotou,1164055,Makariou 6,panagiotounikolas56@gmail.com,96130556,000012349234639213,L006,1280
+Paris Nohi,1000015,manoli anagnostaki 8,parisnohi@gmail.com,96304615,12345678910111,L007,0

@@ -1,0 +1,9 @@
+registrationNumber,brand,model,creationYear,dailyRate,type,seats,minSeats,maxSeats,totalKilometers,nextMaintenanceAt
+ABC1234,Toyota,Yaris,2022,45.0,EconomyCar,5,4,5,9750,10000
+ABC5678,Hyundai,i20,2023,45.0,EconomyCar,4,4,5,152810,30000
+XYZ1111,Toyota,RAV4,2021,70.0,SUV,5,5,7,8210,10000
+XYZ2222,Nissan,X-Trail,2023,70.0,SUV,7,5,7,10500,20000
+CVT0001,Mazda,MX-5,2022,90.0,Convertible,2,2,4,3100,10000
+CVT0002,BMW,Z4,2024,90.0,Convertible,2,2,4,500,10000
+LUX9001,Mercedes-Benz,S-Class,2023,120.0,LuxuryCar,5,4,5,25000,30000
+LUX9002,BMW,7 Series,2024,120.0,LuxuryCar,4,4,5,2000,10000

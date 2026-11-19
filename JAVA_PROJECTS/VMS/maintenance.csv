@@ -1,0 +1,6 @@
+registrationNumber,startDate,endDate,kilometersMaintained,description
+ABC5678,2026-12-22,2026-12-23,152800,Scheduled maintenance at 152800 km: oil change, brake inspection, tire rotation, fluid check, filter replacement
+ABC5678,2026-06-16,2026-06-17,152810,Scheduled maintenance at 152810 km: oil change, brake inspection, tire rotation, fluid check, filter replacement
+XYZ2222,2026-12-15,2026-12-16,10500,Scheduled maintenance at 10500 km: oil change, brake inspection, tire rotation, fluid check, filter replacement
+LUX9001,2026-05-04,2026-05-05,10000,Scheduled maintenance at 10000 km: oil change, brake inspection, tire rotation, fluid check, filter replacement
+LUX9001,2026-12-21,2026-12-22,25000,Scheduled maintenance at 25000 km: oil change, brake inspection, tire rotation, fluid check, filter replacement
